@@ -1,0 +1,31 @@
+#hhh{
+    position:relative;
+}
+#poz{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+#kosdiv{            /*/cijeli/*/
+    position: fixed;
+    left:3vw;
+    top:30vh;
+    background-color: white;
+    width:94vw;
+    z-index: 1;
+    text-align: center;
+}
+#gg{                /*/kosarica/*/
+    display: block;
+}
+.stupac{
+    width: 50%;
+    text-align: center;
+}
+.flexaj{            /*/prva dva skupa/*/
+    display: flex;
+    width: 100%;
+}
